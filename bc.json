@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://e7da6a4b-8d6d-4c20-99d4-f5b2a7eaf2bd.ws-us02.gitpod.io",
+    "address": "https://e761076c-8240-4858-ac21-a3780e7ec2da.ws-eu01.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -38,7 +38,7 @@
         {
             "slug": "01-isOldEnoughToDrink",
             "title": "01-isOldEnoughToDrink",
-            "done": false,
+            "done": true,
             "path": "exercises/01-isOldEnoughToDrink",
             "translations": [
                 "us"
@@ -400,8 +400,10 @@
             "title": "86-findMinLengthOfThreeWords",
             "done": false,
             "path": "exercises/86-findMinLengthOfThreeWords",
-            "translations": [],
-            "graded": false
+            "translations": [
+                "us"
+            ],
+            "graded": true
         },
         {
             "slug": "87-findMaxLengthOfThreeWords",
